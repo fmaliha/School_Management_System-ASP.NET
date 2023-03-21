@@ -1,4 +1,3 @@
-# School_Management_System
 A web based School Management System
 Dashboard
 ![Screenshot_9](https://user-images.githubusercontent.com/43738990/224782903-3f2183b4-ecf8-491e-8111-53629e68ad70.png)
