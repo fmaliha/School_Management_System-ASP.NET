@@ -1,5 +1,5 @@
 A web based School Management System
-Project type: Professional
+
 ## Used Technologies 
 ASP.NET Framework , Webforms , JQuery , AJAX, Telerik Reporting , MS SQL ,HTML, CSS, Bootstrap 
 ## Features : 
