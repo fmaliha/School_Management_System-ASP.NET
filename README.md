@@ -13,8 +13,7 @@ Reduce Client load - Implemented dynamic loading to web service to improve user 
   2. Run the .bak file in the SQL server which will create School Management System Database
   3. Load the project in Visual Studio and Run.
   
-#Project Video 
-
+# Project Video 
 https://user-images.githubusercontent.com/43738990/227226984-c92bff2c-6d59-4137-9342-46f56af456a3.mp4
 
 
