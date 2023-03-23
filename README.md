@@ -1,9 +1,10 @@
 A web based School Management System
 
-## Used Technologies 
-ASP.NET Framework , Webforms , JQuery , AJAX, Telerik Reporting , MS SQL ,HTML, CSS, Bootstrap 
 ## Features : 
 Student Registration, Details, Profile, Class assignments, accounting procedures ie. Fees, dues.
+
+## Used Technologies 
+ASP.NET Framework , Webforms , JQuery , AJAX, Telerik Reporting , MS SQL ,HTML, CSS, Bootstrap 
 ## My Role: 
 Planning + Designing + Full Stack Development + Testing
 ## My Contribution:
