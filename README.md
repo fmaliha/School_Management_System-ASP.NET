@@ -1,23 +1,23 @@
 A web based School Management System
 Project type: Professional
-# Used Technologies: 
+## Used Technologies 
 ASP.NET Framework , Webforms , JQuery , AJAX, Telerik Reporting , MS SQL ,HTML, CSS, Bootstrap 
-# Features : 
+## Features : 
 Student Registration, Details, Profile, Class assignments, accounting procedures ie. Fees, dues.
-# My Role: 
+## My Role: 
 Planning + Designing + Full Stack Development + Testing
-# My Contribution:
+## My Contribution:
 Reduce Client load - Implemented dynamic loading to web service to improve user experience using jQuery, AJAX.
-# How To : 
+## How To : 
   1. Download the project.
   2. Run the .bak file in the SQL server which will create School Management System Database
   3. Load the project in Visual Studio and Run.
   
-# Project Video 
+## Project Video 
 https://user-images.githubusercontent.com/43738990/227226984-c92bff2c-6d59-4137-9342-46f56af456a3.mp4
 
 
-# Project Screenshots: 
+## Project Screenshots: 
 Dashboard
 ![Screenshot_9](https://user-images.githubusercontent.com/43738990/224782903-3f2183b4-ecf8-491e-8111-53629e68ad70.png)
 Student Registration Form
